@@ -131,17 +131,4 @@ Never click links or download attachments from suspicious messages.
 
 ---
 
-# 📘 Purpose of This Document
-
-This README serves as a training resource for:
-- Cybersecurity awareness programs  
-- Corporate phishing-awareness training  
-- Classroom or self-learning exercises  
-
-It provides a realistic example and a structured, step-by-step method for analyzing phishing emails.
-
----
-
-# 📝 Credits
-Prepared for educational and security awareness purposes.
 
