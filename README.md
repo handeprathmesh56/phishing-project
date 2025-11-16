@@ -1,11 +1,5 @@
 # phishing-project
 # Phishing Email Analysis – Full Guide & Example
-
-This README provides a complete analysis of a sample phishing email using the 8-step mini-guide shown in the instructions.  
-The goal is to help users learn how to identify phishing attempts by breaking down each warning sign in detail.
-
----
-
 ## 📧 1. Sample Phishing Email
 
 **Subject:** Important Notice: Your Account Has Been Temporarily Suspended  
@@ -30,11 +24,7 @@ Sincerely,
 
 Attachment: `Account_Report_1125.zip`
 
----
 
-# 🔎 Step-by-Step Analysis Based on the Mini-Guide
-
----
 
 ## ✅ 2. Examine the Sender’s Email Address for Spoofing
 
