@@ -1,5 +1,4 @@
-# phishing-project
-# Phishing Email Analysis – Full Guide & Example
+# Phishing Email Analysis project
 ## 📧 1. Sample Phishing Email
 
 **Subject:** Important Notice: Your Account Has Been Temporarily Suspended  
